@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vamshi!
 
-<!--
-**luvable1196/luvable1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate Python Backend Developer with 2+ years of professional experience building scalable systems and RESTful APIs. Currently working at **Tata Elxsi**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Expertise
+
+### 💻 Languages
+- **Python** (Advanced)
+- JavaScript
+- Bash / Shell
+
+### 🛠️ Backend
+- **FastAPI**, **Django**, Django REST Framework
+- WebSocket Integrations
+- Kafka (for stream processing)
+- Celery (task queues)
+- RabbitMQ (for notifications)
+- Redis (for caching & pub-sub)
+- PostgreSQL, MongoDB
+
+### ☁️ DevOps & Infra
+- Docker, Docker Compose
+- Nginx (as load balancer and reverse proxy)
+- MinIO (S3-compatible object storage)
+- Git & GitHub CI/CD
+- Deployment on Client Servers
+
+### 🌐 Frontend
+- React.js (basic-intermediate)
+
+---
+
+## 📈 Current Projects
+
+### 🏗️ The Family Book (Private Social Media)
+A social platform for families with:
+- Group/Individual Chats (using WebSockets + Redis)
+- Image/Video Posts (stored in MinIO)
+- PostgreSQL for users, MongoDB for posts
+- RabbitMQ + Celery for Notifications
+
+---
+
+## 📚 Interests
+
+- 💪 Gym & Fitness (goal: building abs 💥)
+- 🎌 Japanese Anime & Culture
+- 📖 Learning aws,django & Kubernetes
+
+---
+
+## 📢 Let's Connect
+
+- 📧 Email: krishnavamshi0016@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/krishnavamshi99/
+
+
+---
+
+_“Believe in yourself.”_
+
+![Profile Views](https://komarev.com/ghpvc/?username=luvable1196&color=blue)
